@@ -1,0 +1,4 @@
+ r←Hello
+⍝ Part of "TestRepo", a GitHub repository that exists for the sole purpose of being
+⍝ able to test the `GitHubAPI` class. For details see there (test cases).
+ r←'World v1.0.0'
