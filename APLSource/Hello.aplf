@@ -1,4 +1,4 @@
  r←Hello
 ⍝ Part of "TestRepo", a GitHub repository that exists for the sole purpose of being
 ⍝ able to test the `GitHubAPI` class. For details see there (test cases).
- r←'Universe and all the rest of it v2.1.0'
+ r←'Universe and all the rest of it (42) v2.1.0'
